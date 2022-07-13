@@ -11,6 +11,10 @@
         "drupal/scheduler": "^1.3",
         "geocoder-php/google-maps-provider": "^4.6"
     },
+    "require-dev": {
+        "axelerant/drupal-quality-checker": "^1.1",
+        "phpspec/prophecy-phpunit": "^2.0"
+    },
     "config": {
         "allow-plugins": {
             "composer/installers": true,
