@@ -6,7 +6,7 @@
     "require": {
         "drupal/acquia_cms_image": "^1.3.5",
         "drupal/address": "^1",
-        "drupal/geocoder": "3.28",
+        "drupal/geocoder": "3.29",
         "drupal/geofield": "^1",
         "drupal/scheduler": "^1.3",
         "geocoder-php/google-maps-provider": "^4.6"
